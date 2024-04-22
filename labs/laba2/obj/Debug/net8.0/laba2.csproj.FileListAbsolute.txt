@@ -1,0 +1,14 @@
+D:\Coding\C#\programming_technologies\labs\laba2\bin\Debug\net8.0\laba2.exe
+D:\Coding\C#\programming_technologies\labs\laba2\bin\Debug\net8.0\laba2.deps.json
+D:\Coding\C#\programming_technologies\labs\laba2\bin\Debug\net8.0\laba2.runtimeconfig.json
+D:\Coding\C#\programming_technologies\labs\laba2\bin\Debug\net8.0\laba2.dll
+D:\Coding\C#\programming_technologies\labs\laba2\bin\Debug\net8.0\laba2.pdb
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.AssemblyInfoInputs.cache
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.AssemblyInfo.cs
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.csproj.CoreCompileInputs.cache
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.dll
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\refint\laba2.dll
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.pdb
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.genruntimeconfig.cache
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\ref\laba2.dll
