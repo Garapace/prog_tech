@@ -10,11 +10,6 @@ namespace laba2
             BaseList ChainList = new ChainList();
             Random random = new Random();
 
-            /*for (int i = 0; i < 10; i++)
-            {
-                ChainList.Add(random.Next(1, 6));
-            }*/
-
             ChainList.Add(1);
             ChainList.Add(2);
             ChainList.Add(4);

@@ -12,3 +12,4 @@ D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\refint\laba2.d
 D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.pdb
 D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.genruntimeconfig.cache
 D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\ref\laba2.dll
+D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.sourcelink.json
