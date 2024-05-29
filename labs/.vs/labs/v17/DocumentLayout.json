@@ -1,7 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Coding\\C#\\programming_technologies\\labs\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Code\\C#\\prog_tech\\labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|d:\\code\\c#\\prog_tech\\labs\\laba3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|solutionrelative:laba3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|d:\\code\\c#\\prog_tech\\labs\\laba3\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|solutionrelative:laba3\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|d:\\code\\c#\\prog_tech\\labs\\laba3\\chainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|solutionrelative:laba3\\chainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|d:\\code\\c#\\prog_tech\\labs\\laba3\\exeptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|solutionrelative:laba3\\exeptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|d:\\code\\c#\\prog_tech\\labs\\laba3\\baselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809EDA7C-DEEE-484F-A677-AC1C83F6C920}|laba3\\laba3.csproj|solutionrelative:laba3\\baselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 205,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\Program.cs",
+              "RelativeDocumentMoniker": "laba3\\Program.cs",
+              "ToolTip": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\Program.cs",
+              "RelativeToolTip": "laba3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:08:33.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\ArrayList.cs",
+              "RelativeDocumentMoniker": "laba3\\ArrayList.cs",
+              "ToolTip": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\ArrayList.cs",
+              "RelativeToolTip": "laba3\\ArrayList.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwGQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:10:00.926Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChainList.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\ChainList.cs",
+              "RelativeDocumentMoniker": "laba3\\ChainList.cs",
+              "ToolTip": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\ChainList.cs",
+              "RelativeToolTip": "laba3\\ChainList.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAYwJQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:10:30.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseList.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\BaseList.cs",
+              "RelativeDocumentMoniker": "laba3\\BaseList.cs",
+              "ToolTip": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\BaseList.cs",
+              "RelativeToolTip": "laba3\\BaseList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:09:20.021Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -18,6 +92,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exeptions.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\Exeptions.cs",
+              "RelativeDocumentMoniker": "laba3\\Exeptions.cs",
+              "ToolTip": "D:\\Code\\C#\\prog_tech\\labs\\laba3\\Exeptions.cs",
+              "RelativeToolTip": "laba3\\Exeptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:59:29.187Z"
             }
           ]
         }

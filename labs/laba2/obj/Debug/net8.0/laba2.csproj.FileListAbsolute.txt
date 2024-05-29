@@ -13,3 +13,17 @@ D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.pdb
 D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.genruntimeconfig.cache
 D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\ref\laba2.dll
 D:\Coding\C#\programming_technologies\labs\laba2\obj\Debug\net8.0\laba2.sourcelink.json
+D:\Code\C#\prog_tech\labs\laba2\bin\Debug\net8.0\laba2.exe
+D:\Code\C#\prog_tech\labs\laba2\bin\Debug\net8.0\laba2.deps.json
+D:\Code\C#\prog_tech\labs\laba2\bin\Debug\net8.0\laba2.runtimeconfig.json
+D:\Code\C#\prog_tech\labs\laba2\bin\Debug\net8.0\laba2.dll
+D:\Code\C#\prog_tech\labs\laba2\bin\Debug\net8.0\laba2.pdb
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\laba2.AssemblyInfoInputs.cache
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\laba2.AssemblyInfo.cs
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\laba2.csproj.CoreCompileInputs.cache
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\laba2.dll
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\refint\laba2.dll
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\laba2.pdb
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\laba2.genruntimeconfig.cache
+D:\Code\C#\prog_tech\labs\laba2\obj\Debug\net8.0\ref\laba2.dll
